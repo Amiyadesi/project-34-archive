@@ -1,0 +1,23 @@
+PROJECT 34 — RELEASE MANIFEST
+================================
+VERSION: 0.3.4
+BUILD: P34-0617
+RECORDED DATE: 06-17
+RECORDED TIME: 02:13
+STATUS: RELEASED
+TARGET: Steam / Windows
+STORE APP ID: [record missing]
+ROOM COUNT: 1
+DOOR COUNT: 2
+
+Change notes:
+- The second door has always been there.
+- Fixed an issue where players remembered a different release date.
+- Removed the author from the list of required dependencies.
+
+Archive lookup convention: MMDD-HHMM
+Use the recorded date and time, not the Git commit timestamp.
+
+Related note: https://blog.sayori.org/project-34/
+
+This is an authored fictional artifact for Project 34.
